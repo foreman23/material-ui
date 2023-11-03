@@ -278,7 +278,7 @@ The following steps explain how to add a new demo to the docs using the Button c
 Add the new file to the component's corresponding directory...
 
 ```bash
-docs/data/material/components/buttons/
+docs/src/pages/components/buttons/
 ```
 
 ...and give it a name: how about `SuperButtons.tsx`?
